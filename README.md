@@ -1,7 +1,5 @@
 Name:Vennapusa Guru Deepthi
-
 Company:CODTECH IT SOLUTIONS
-
 ID:CT08DS3711
 Domain:Web Development
 Duration:July to August 2024
@@ -33,6 +31,8 @@ Edit Tasks: Enable task editing.
 Task Priority/Categories: Allow categorizing or prioritizing tasks.
 Due Dates: Implement deadlines or due dates for tasks.
 Responsive Design: Ensure the application is mobile-friendly.
+![Screenshot 2024-07-27 193801](https://github.com/user-attachments/assets/acef0936-66cc-4cb2-a507-96f629f3e9bb)
+
 
 
 
